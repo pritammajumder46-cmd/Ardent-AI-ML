@@ -1,2 +1,5 @@
 # Ardent-AI-ML
-This repository is created for the codes of training classes
+<ul>
+<li>This repository includes all the codes and Handwritten notes of training sessions.</li>
+<li>75 percent attendence is Manditory</li>
+</ul>
