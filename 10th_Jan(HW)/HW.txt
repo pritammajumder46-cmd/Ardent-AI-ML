@@ -1,0 +1,39 @@
+Define a function named hello() that prints the message "Hello World". Call the function.
+
+Write a Python function named display_name() that prints your name.
+
+Create a function named add() that adds two numbers 5 and 10 and prints the result.
+
+Write a function called square() that takes one number as argument and prints its square.
+
+Define a function even_odd() that checks whether a given number is even or odd.
+
+Write a Python function named sum_two(a, b) that returns the sum of two numbers.
+
+Create a function greet(name) that prints "Good Morning" along with the given name.
+
+Define a function print_numbers() that prints numbers from 1 to 5.
+
+Write a function named multiply() that multiplies two numbers entered by the user.
+
+Create a function check_positive(n) that checks whether a number is positive or negative.
+
+Define a function show() that prints "Welcome to Python Programming".
+
+Write a Python function max_two(a, b) that prints the greater of two numbers.
+
+Create a function named area_square(side) that calculates and prints the area of a square.
+
+Define a function simple_interest(p, r, t) to calculate and print simple interest.
+
+Write a function named print_table(n) that prints the multiplication table of a given number.
+
+Create a function count_chars() that prints the length of a given string.
+
+Define a function is_zero(n) that checks whether the given number is zero or not.
+
+Write a Python function named add_three(a, b, c) that returns the sum of three numbers.
+
+Create a function print_star() that prints *****.
+
+Define a function find_cube(n) that prints the cube of a given number.
