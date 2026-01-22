@@ -1,0 +1,40 @@
+1. Create a list of 5 integers. Add two more numbers to the list and display the final list.
+
+
+2. Write a program to find the largest and smallest elements from a list entered by the user.
+
+
+3. Create a list of 6 strings. Remove the third element and print the updated list.
+
+
+4. Write a program to count how many times a given element appears in a list.
+
+5. Create a tuple containing 5 different fruits. Print the tuple elements using a loop.
+
+
+6. Write a program to convert a tuple into a list and display the result.
+
+
+7. Create a tuple of numbers and find the sum of all elements in the tuple.
+
+8. Create a set of 6 integers. Add two new elements to the set and print it.
+
+
+9. Write a program to find the union of two sets.
+
+
+10. Create two sets and find their intersection.
+
+
+11. Write a program to remove a specific element from a set entered by the user.
+
+12. Create a dictionary with student roll numbers as keys and names as values. Display the dictionary.
+
+
+13. Write a program to add a new key-value pair to an existing dictionary.
+
+
+14. Create a dictionary of 5 subjects and their marks. Print only the subject names.
+
+
+15. Write a program to check whether a given key exists in a dictionary or not.
