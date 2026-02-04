@@ -1,0 +1,4 @@
+1. Find largest and smallest digit between in a number
+2. display fibonacci series upto 10 terms
+3. Print all Prime numbers within a given range
+4. Print full multiplication table upto 10
